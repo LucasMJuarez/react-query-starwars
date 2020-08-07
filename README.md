@@ -1,3 +1,16 @@
+Se uso api Swapi de StarWars, en conjunto con ReactQuery para resalizar las peticiones, junto con useState para el manejo de estados.
+Ademas de usar GRID CSS para que sea responsive.
+
+[![Starwars1.jpg](https://i.postimg.cc/T2QcDr84/Starwars1.jpg)](https://postimg.cc/BtLDWPnT)
+
+[![Starwars2.png](https://i.postimg.cc/sXLDk6QL/Starwars2.png)](https://postimg.cc/r0SkW99G)
+
+[![Starwars3.jpg](https://i.postimg.cc/cC840RfL/Starwars3.jpg)](https://postimg.cc/JHMWQBTf)
+
+[![Starwars4.jpg](https://i.postimg.cc/c6y1HvcM/Starwars4.jpg)](https://postimg.cc/cthGk42r)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
